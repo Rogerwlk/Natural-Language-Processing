@@ -1,0 +1,66 @@
+ARA,,,,,,,,,,
+10 highest-weighted features,g_bias,.,to,the,and,of,",",that,in,is
+weights,5957,5928,5920,5899,5864,5739,5715,5683,5644,5571
+10 lowest-weighted features,Parking,Houses,2026,cowded,babies,100000,continuous,roof,compromise,Speciality
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5957,,,,,,,,,
+DEU,,,,,,,,,,
+10 highest-weighted features,.,g_bias,to,the,of,a,and,is,in,","
+weights,5795,5795,5766,5766,5730,5666,5665,5626,5559,5508
+10 lowest-weighted features,learnt,specalized,expand,konwledge,minus,plus,method,opionion,stand,critics
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5795,,,,,,,,,
+FRA,,,,,,,,,,
+10 highest-weighted features,.,to,g_bias,of,the,",",and,is,a,that
+weights,5879,5879,5879,5839,5821,5781,5757,5693,5626,5581
+10 lowest-weighted features,chair,wheel,binary,ascending,follows,descending,guess,halfs,divide,crucial
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5879,,,,,,,,,
+HIN,,,,,,,,,,
+10 highest-weighted features,g_bias,.,to,the,and,of,is,in,that,a
+weights,5984,5982,5950,5919,5852,5852,5771,5636,5517,5450
+10 lowest-weighted features,beyound,throws,peolpe,diagree,witht,taker,predatory,cutting,ascpects,han
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5984,,,,,,,,,
+ITA,,,,,,,,,,
+10 highest-weighted features,the,.,g_bias,to,of,and,a,that,",",is
+weights,5838,5838,5838,5823,5803,5798,5778,5749,5739,5656
+10 lowest-weighted features,SUCCESS,Working,ONESELF,BETTER,TO,WANT,thinghs,avaleable,investments,middle-class
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5838,,,,,,,,,
+JPN,,,,,,,,,,
+10 highest-weighted features,.,",",g_bias,to,and,of,the,that,is,I
+weights,5952,5952,5952,5919,5874,5745,5738,5555,5525,5430
+10 lowest-weighted features,Apart,thes,cunstermer,overlook,downplay,advitisement,acontroversial,Sicen,semm,Prikura
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5952,,,,,,,,,
+KOR,,,,,,,,,,
+10 highest-weighted features,.,g_bias,",",to,the,and,of,that,is,in
+weights,5975,5975,5918,5912,5888,5817,5725,5654,5527,5335
+10 lowest-weighted features,wear,colthes,puma,Adiddas,Boss,Nike,overadvertising,pierod,sung,sam
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5975,,,,,,,,,
+SPA,,,,,,,,,,
+10 highest-weighted features,g_bias,the,to,.,a,",",that,and,of,is
+weights,5868,5867,5853,5839,5833,5828,5784,5776,5746,5634
+10 lowest-weighted features,loking,Firt,acompanied,secondary,wide,scared,undervalue,regarded,aptitudes,constanlly
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5868,,,,,,,,,
+TEL,,,,,,,,,,
+10 highest-weighted features,g_bias,the,to,.,and,in,of,is,that,","
+weights,5994,5962,5948,5933,5854,5848,5821,5586,5483,5450
+10 lowest-weighted features,travels,appears,heard,lightening,accurately,shifts,automaticaly,puting,achievs,assurance
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5994,,,,,,,,,
+TUR,,,,,,,,,,
+10 highest-weighted features,to,g_bias,.,the,of,and,is,",",a,in
+weights,5955,5955,5926,5893,5872,5867,5772,5581,5517,5502
+10 lowest-weighted features,avoiding,planing,suprised,locations,ussage,calories,restrict,restrictions,allowing,Addition
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5955,,,,,,,,,
+ZHO,,,,,,,,,,
+10 highest-weighted features,.,g_bias,to,the,",",of,and,is,that,in
+weights,5901,5901,5900,5872,5872,5760,5742,5540,5445,5406
+10 lowest-weighted features,mentions,expence,goodness,repeats,weakness,trickness,presents,witnesses,disscusion,behavir
+weights,1,1,1,1,1,1,1,1,1,1
+bias,5901,,,,,,,,,

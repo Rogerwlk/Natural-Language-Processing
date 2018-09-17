@@ -1,0 +1,24 @@
+1.
+			all tokens	OOV tokens	perfect tagging
+baseline	85.7%		31.0%		29.0%
+hmm			87.3%		30.5%		34.5%
+
+2. It is 'PROPN' type, because each type of PROPN words appears infrequently. They are special nouns. Their usage is almost the same as nouns, so they can be easily misjudged.
+
+3. In both data sets, there is no sentence the gold tagging having higher probability than the Viterbi tagging. (at least in my program)
+
+4. 
+			all tokens	OOV tokens	perfect tagging
+baseline	83.7%		22.3%		24.9%
+hmm			86.9%		26.5%		32.2%
+
+They are lower than the Universal tagset, because there are more 'NNP' data (the same as PROPN in Universal tagset) than the Universal tagset which is hard to predict.
+
+5.
+			Training Time	Baseline Time	HMM Time
+Universal	1.1s			0.078s			2.5s
+Penn		2.0s 			0.11s			14s
+
+HMM prediction time dominate, because training time complexity is linear and HMM prediction time complexity is n^2
+
+6. No, because in my algorithm, I use dictionary to store probability. The amount of data won't influence my algorithm's speed to access the data. The amount of calculation in the prediction is unrelated to the amount of training data. I use space to trade for time.

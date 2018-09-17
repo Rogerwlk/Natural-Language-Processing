@@ -1,0 +1,18 @@
+2.
+Synonym:
+
+The meaning is slightly changed. The naturalness is changed, because the tense and word forms are no longer consistent.
+
+Hypernym:
+
+The meaning is obscure because of the lack of word details. The naturalness is changed, because the tense and word forms are no longer consistent.
+
+Hyponym:
+
+The meaning is changed because the hyponym goes to some irrelevant details. The naturalness is destroyed by nonsense word combinations. The tense and word forms are no longer consistent as well.
+
+3.
+It seems like a better approach than regular edit distance. They produce different results and Wu-Palmer method seems better. The limitation is that same meaning sentences' words can be arranged in different orders. This approach can't consider this situation.
+
+4.
+The lack of sense tags increases the cost and reduces the similarity.

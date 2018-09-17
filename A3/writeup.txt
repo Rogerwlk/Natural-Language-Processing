@@ -1,0 +1,17 @@
+Problem2:
+
+The proportion of words that occur only once would be lower if we used a larger corpus, because larger corpus means more words and higher frequency for all the words in the dictionary. There will be less words occur once.
+
+Problem4:
+
+All four probabilities go down because smooth add the same value to the count. This value 0.1 will dramatically increase the probability with 0 count, so the original large probability value will decrease. The larger this value is, the more equal all the probabilities will be. For example, you can add a very large number like 99999999 to the count, then all the count will be almost the same.
+
+Probabilities conditioned on 'the' fall much less than others, because the larger the original probability is, the more they will be affected by smoothing. For example, there are 99 numbers of zero and 1 number of one hundred. 100/(0*99 + 100) = 1. Increase each value by one. There will be 99 numbers of one and 1 number of one hundred and one. 101/(1*99 + 101) = 0.505. Compared with there are 99 numbers of ten and 1 number of one hundred. 100/(10*99 + 100) = 0.092. Increase by 1. 101/(11*99 + 101) = 0.085. The previous example the proportion cut in half. The second example reduce by less than 10 percent. It is like the larger the difference is, the more effective the smooth will be.
+
+Problem6:
+
+Unigram model perform the worst because unigram has the least information. It is too simple to do some accurate analyze. Smoothing hurt the model's performance because maybe the training data is too small to analyze these two sentences. Therefore, after the smoothing, these two sentences look the same.
+
+Problem7:
+
+The bigram performs the best. The unigram fails to generate a sentence. It only generates a phrase. The smoothed bigram generates a weird sentence with lots of uncommon words.
